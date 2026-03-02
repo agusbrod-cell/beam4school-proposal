@@ -2,11 +2,11 @@
 
 ## 1. Motivation to Participate (~116 words)
 
-We are students and teachers from Instituto San Francisco de Asís in Santa Rosa de Calamuchita, Córdoba, Argentina. Two thousand years ago, the Comechingón people carved and shaped the rock of our region — and the artefacts preserved in our local museum still cannot be studied without risking damage. Today, mixed plastic waste arrives at recycling facilities where a single piece of PVC, invisible to the naked eye, can contaminate and ruin the entire batch. Two problems, two thousand years apart, the same challenge: characterising a material without destroying it. Particle physics offers one answer for both: multiple Coulomb scattering reveals atomic composition through deflection angles alone. Participating in BL4S means we can finally prove it works.
+We are students and teachers from Instituto San Francisco de Asís in Santa Rosa de Calamuchita, Córdoba, Argentina. Two thousand years ago, the Comechingón people carved and shaped the rock of our region and the artefacts preserved in our local museum still cannot be studied without risking damage. Today, mixed plastic waste arrives at recycling facilities where a single piece of PVC, invisible to the naked eye, can contaminate and ruin the entire batch. Two problems, two thousand years apart, the same challenge: characterising a material without destroying it. Particle physics offers one answer for both: multiple Coulomb scattering reveals atomic composition through deflection angles alone. Participating in BL4S means we can finally prove it works.
 
 ---
 
-## 2. Experiment Idea (~752 words)
+## 2. Experiment Idea (~830 words)
 
 ### The Question
 
@@ -53,17 +53,17 @@ A measured classification table and plot of θ₀ (and extracted X₀) for each 
 ### Simulation and Open Science
 
 We have built a Geant4 Monte Carlo simulation of the full experiment, published in a public GitHub repository. Students contribute by editing simple YAML files and instantly seeing updated predictions — no C++ or Geant4 needed. Every figure in this proposal can be reproduced from the repository.
-Our simulations (Geant4 11.3.2, FTFP_BERT, 2,000 events per configuration) validate the Highland predictions: across 10 of 11 materials at two momenta, Geant4 consistently exceeds Highland by 12 ± 3%, attributable to nuclear elastic scattering that the analytic formula omits. The exception is Fe₂O₃, where the ratio rises to ~1.4–1.5 — directly revealing the larger hadronic cross-section of iron nuclei, itself a measurable result from the same setup
+Our simulations (Geant4 11.3.2, FTFP_BERT, 2,000 events per configuration) validate the Highland predictions: across 10 of 11 materials at two momenta, Geant4 consistently exceeds Highland by 12 ± 3%, attributable to nuclear elastic scattering that the analytic formula omits. The exception is Fe₂O₃, where the ratio rises to ~1.4–1.5, directly revealing the larger hadronic cross-section of iron nuclei, itself a measurable result from the same setup.
 
 ---
 
-## 3. What We Hope to Take Away (~100 words)
+## 3. What We Hope to Take Away (~95 words)
 
 We want to return to Córdoba with three things: a validated BeamScan Atlas proving that particle beams can classify materials non-destructively; the experience of designing, running, and analysing a real experiment at a world-class facility; and a story to share. If students from Argentina can use a CERN beamline to help solve recycling challenges and study their country's archaeological heritage, it shows that fundamental physics belongs to everyone. We will share our results with local recycling cooperatives, schools, and museums — and publish everything openly so others can build on our work.
 
 ---
 
-## Outreach Activity (optional, ~200 words)
+## Outreach Activity (optional, ~145 words)
 
 Before submitting this proposal, our team organised a "Physics Meets the Street" event at a recycling cooperative in Córdoba. We brought samples of different plastics and demonstrated — using simple density-sorting and light-transmission tests — how difficult it is to distinguish PE from PP or detect PVC contamination by eye. We explained our BL4S idea: that accelerator particles can "see" the atoms inside a material, not just the surface. Workers were fascinated that CERN science could connect to their daily sorting challenges.
 If selected, we will expand this into a bilingual workshop series: "Del acelerador al reciclaje" (From the Accelerator to Recycling). We will bring our BeamScan Atlas to schools and cooperatives across Córdoba, explaining the physics behind each data point. We will publish the Geant4 simulation and Spanish-language tutorials so students across Latin America can run their own predictions and extend the atlas with new materials.
