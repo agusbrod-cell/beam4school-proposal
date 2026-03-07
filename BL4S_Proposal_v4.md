@@ -66,13 +66,49 @@ Fundamental physics belongs to everyone.
 
 
 ## Bibliography
-[1] M. Paci and F. P. La Mantia, “Influence of small amounts of polyvinylchloride on the recycling of polyethyleneterephthalate,” Polymer Degradation and Stability, vol. 63, no. 1, pp. 11–14, Jan. 1999. https://doi.org/10.1016/S0141-3910(98)00053-6 
-[2] D. E. Groom and S. R. Klein, “Passage of Particles Through Matter,” in Review of Particle Physics 2025, Particle Data Group, 2025. https://pdg.lbl.gov/2025/reviews/rpp2025-rev-passage-particles-matter.pdf
-[3] Particle Data Group, “Atomic and Nuclear Properties of Materials,” 
-in Review of Particle Physics, 2025. https://pdg.lbl.gov/2025/AtomicNuclearProperties/
-[4] Geant4 Collaboration. (n.d.). Geant4 User's Guide for Application Developers. http://geant4.web.cern.ch/
-[5] A. Adıgüzel, E. Ergenlik, S. Gürbüz, Z. İstemihan, V. E. Özcan and G. Ünel, “Design, simulation and construction of a delay wire chamber,” in AIP Conference Proceedings, vol. 1935, 070003, 33rd International Physics Congress of the Turkish Physical Society (TPS), Bodrum, Türkiye, 6–10 Sept. 2017. https://doi.org/10.1063/1.5025984
-[6] Jansen, H., Spannagel, S., Behr, J. et al. Performance of the EUDET-type beam telescopes. EPJ Techn Instrum 3, 7 (2016). https://doi.org/10.1140/epjti/s40485-016-0033-2
-[7] Physikalisches Institut, “Hadron Physics – ELSA,” Universität Bonn, Germany. [Online] Available: https://www-elsa.physik.uni-bonn.de/Hadronenphysik/index_en.html
-[8] M. Tsakona and I. Rucevska, “Plastic Waste Background Report,” note by the Secretariat of the Basel Convention for the first meeting of the Plastic Waste Partnership Working Group, Beau Vallon, Seychelles, 2–5 Mar. 2020, UNEP/CHW/PWPWG.1/INF/4. English. https://gridarendal-website-live.s3.amazonaws.com/production/documents/:s_document/554/original/UNEP-CHW-PWPWG.1-INF-4.English.pdf?1594295332
-[9] M. Okrusch and H. E. Frimmel, Mineralogy: An Introduction to Minerals, Rocks, and Mineral Deposits, Springer, 2020. https://doi.org/10.1007/978-3-662-57316-7
+
+[1] M. Paci and F. P. La Mantia,  
+“Influence of small amounts of polyvinylchloride on the recycling of polyethyleneterephthalate,”  
+*Polymer Degradation and Stability*, vol. 63, no. 1, pp. 11–14, Jan. 1999.  
+https://doi.org/10.1016/S0141-3910(98)00053-6
+
+[2] D. E. Groom and S. R. Klein,  
+“Passage of Particles Through Matter,”  
+in *Review of Particle Physics 2025*, Particle Data Group, 2025.  
+https://pdg.lbl.gov/2025/reviews/rpp2025-rev-passage-particles-matter.pdf
+
+[3] Particle Data Group,  
+“Atomic and Nuclear Properties of Materials,”  
+in *Review of Particle Physics*, 2025.  
+https://pdg.lbl.gov/2025/AtomicNuclearProperties/
+
+[4] Geant4 Collaboration,  
+*Geant4 User's Guide for Application Developers*.  
+http://geant4.web.cern.ch/
+
+[5] A. Adıgüzel, E. Ergenlik, S. Gürbüz, Z. İstemihan, V. E. Özcan, and G. Ünel,  
+“Design, simulation and construction of a delay wire chamber,”  
+in *AIP Conference Proceedings*, vol. 1935, 070003,  
+33rd International Physics Congress of the Turkish Physical Society (TPS),  
+Bodrum, Türkiye, 6–10 Sept. 2017.  
+https://doi.org/10.1063/1.5025984
+
+[6] H. Jansen, S. Spannagel, J. Behr, *et al.*,  
+“Performance of the EUDET-type beam telescopes,”  
+*EPJ Techniques and Instrumentation*, vol. 3, 7 (2016).  
+https://doi.org/10.1140/epjti/s40485-016-0033-2
+
+[7] Physikalisches Institut, Universität Bonn,  
+“Hadron Physics – ELSA.”  
+https://www-elsa.physik.uni-bonn.de/Hadronenphysik/index_en.html
+
+[8] M. Tsakona and I. Rucevska,  
+“Plastic Waste Background Report,”  
+Secretariat of the Basel Convention, Plastic Waste Partnership Working Group,  
+Beau Vallon, Seychelles, 2–5 Mar. 2020.  
+https://gridarendal-website-live.s3.amazonaws.com/production/documents/:s_document/554/original/UNEP-CHW-PWPWG.1-INF-4.English.pdf
+
+[9] M. Okrusch and H. E. Frimmel,  
+*Mineralogy: An Introduction to Minerals, Rocks, and Mineral Deposits*.  
+Springer, 2020.  
+https://doi.org/10.1007/978-3-662-57316-7
