@@ -59,7 +59,7 @@ We would like to sincerely thank Arturo Sánchez Pineda (PhD in Fundamental Phys
 
 
 ## Outreach Activity
-We built a public website — the BeamScan Atlas — where anyone can see the results of our experiment: how each material produces a different scattering angle, why that happens physically, and what it means for recycling or heritage science. All the data is downloadable and open.
+We built a public website — [BeamScan Atlas](https://los-topos-cosmicos.github.io/beam4school-proposal/outreachBilingual.html) — where anyone can see the results of our experiment: how each material produces a different scattering angle, why that happens physically, and what it means for recycling or heritage science. All the data is downloadable and open.
 We also set up a GitHub repository (https://github.com/los-topos-cosmicos/beam4school-proposal/tree/main) with our Geant4 simulations, analysis scripts, raw data, and tutorials written in Spanish and English. The idea is that any student — anywhere in Latin America — can fork the repo, edit a YAML file, and get their own scattering prediction in about 30 seconds, without installing anything. We wanted it to feel like something you can actually touch.
 Finally, we're organizing outreach across our community — at the municipal cooperative, the town museum, and our school. By participating in our school's science fair, we become eligible to compete at regional and national levels, so our results could reach audiences well beyond Santa Rosa de Calamuchita. In every setting, the message is the same: the physics behind our experiment can help identify a 2,000-year-old Comechingón rock and detect PVC in a recycling stream.
 Fundamental physics belongs to everyone.
