@@ -34,9 +34,10 @@ Figure 1: Discrimination matrix. Number of events needed for 3σ separation betw
 
 ## Experimental Setup (facility-agnostic)
 Our core measurement requires only four Delay Wire Chambers (DWCs) [5] and a target holder — standard equipment at all BL4S facilities:
-\begin{center}
-![Setup schematic](docs/figures/setup_schematic.png)
-\end{center}
+\begin{figure}[h]
+\centering
+\includegraphics{docs/figures/setup_schematic.png}
+\end{figure}
 Figure 2: Schematic representation of the BeamScan experimental setup (facility-agnostic).
 Two upstream trackers measure the incoming particle direction, two downstream measure it after the target.
 Subtracting the beam's natural divergence — measured in dedicated no-target runs — we extract the scattering signal from the material alone. The layout works with Delay Wire Chambers at CERN, beam telescopes at DESY [6], and the available tracking detectors at ELSA [7].
