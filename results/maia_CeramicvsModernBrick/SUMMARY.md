@@ -2,7 +2,7 @@
 
 **Author:** Maia Yallbi  
 **Description:** Custom traditional ceramic vs modern brick using MCS  
-**Generated:** 2026-03-02 15:55 UTC  
+**Generated:** 2026-03-08 00:29 UTC  
 **Method:** Highland formula (analytical)
 
 ## Beam Settings
