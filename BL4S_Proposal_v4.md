@@ -1,7 +1,7 @@
 # BeamScan: A Particle-Beam Material Classifier: From Recycling to Heritage Science
 **Team:** Álvarez Jeremías, Baraldo Vargas Paula, Blanco Tomás, Bustillo Federico, Carabajal Ricardo, Cores Fiorella, Medina Giovanini Lorenzo, Rodríguez Matías, Yallbi Maia.
-**Coaches:** García Iskya, Rodríguez Agustina
-**Assessed by:** Arturo Sánchez Pineda
+**Coaches:** García Iskya, Rodríguez Agustina.
+**Assessed by:** Sánchez Pineda Arturo.
 <p align="center">
   <img src="https://raw.githubusercontent.com/los-topos-cosmicos/beam4school-proposal/main/docs/figures/teamcoaches2026.png" alt="Team 2026">
 </p>
